@@ -2,5 +2,6 @@
 	"version": 2,
 	"public": true,
 	"builds": [ { "src": "*.js", "use": "@now/node" } ],
+	"alias": ["checkip.now.sh"],
 	"regions": ["sfo1", "hnd1"]
 }
